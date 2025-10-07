@@ -20,12 +20,12 @@
 <div align="center">
   
 [![Followers](https://img.shields.io/github/followers/ganukalakshan?label=Galactic%20Followers&style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117)](https://github.com/ganukalakshan?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/ganukalakshan?style=for-the-badge&color=00D4FF&labelColor=0D1117)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/ganukalakshan?style=for-the-badge&color=00D4FF&labelColor=0D1117)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ganukalakshan?style=for-the-badge&color=00D4FF&labelColor=0D1117)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/ganukalakshan?style=for-the-badge&color=00D4FF&labelColor=0D1117)](https://github.com/ganukalakshan)
+[![Repos Badge](https://badges.pufler.dev/repos/ganukalakshan?style=for-the-badge&color=00D4FF&labelColor=0D1117)](https://github.com/ganukalakshan)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ganukalakshan?style=for-the-badge&color=00D4FF&labelColor=0D1117)](https://github.com/ganukalakshan)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ganukalakshan&label=Profile%20Views&color=00D4FF&style=for-the-badge)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-October%207,%202025-00D4FF?style=for-the-badge&labelColor=0D1117)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%207,%202025%20|%2008:23-00D4FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -328,7 +328,7 @@ Other         2 mins         ░░░░░░░░░░░░░░░░░
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
@@ -410,7 +410,7 @@ while (alive) {
 
 **🔄 This README updates automatically every day with fresh content! 🔄**
 
-**📅 Last Updated: October 7, 2025 | 🕐 UTC: 08:02:41**
+**📅 Last Updated: October 7, 2025 | 🕐 UTC: 08:23:35**
 
 ---
 
@@ -428,13 +428,12 @@ while (alive) {
 📝 Add your actual blog/writing platform links
 🌐 Update portfolio website URL when available
 
-🚀 FIXED FEATURES:
-✅ All GitHub stats using verified APIs
+🚀 FIXED ISSUES:
+✅ Updated timestamp to: October 7, 2025 | UTC: 08:23:35
+✅ Fixed badge URLs to point to profile instead of badges.pufler.dev
+✅ Changed snake animation to dark theme version
+✅ All GitHub stats using verified dark theme APIs
 ✅ Working contribution graph with proper URL
 ✅ Real project images from Unsplash
-✅ Fixed snake animation URL
-✅ Updated timestamps to current date/time
-✅ Functional badges and metrics
-✅ Proper fingerprint and asset management projects
-✅ All image URLs verified and working
+✅ Functional badges and metrics with dark theme
 -->
