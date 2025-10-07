@@ -1,34 +1,38 @@
-<!-- HEADER -->
+<!-- GLASSMORPHISM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F7FF,100:4B0082&text=Ganuka%20Lakshan&fontAlign=50&fontAlignY=35&fontSize=50&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20%26%20DevOps%20Enthusiast&descAlign=50&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4B0082,100:00FFFF&text=Ganuka%20Lakshan&fontAlign=50&fontAlignY=35&fontSize=48&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20%26%20Cloud%20Enthusiast&descAlign=50&descAlignY=55"/>
 </p>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ganuka&label=Profile%20Views&color=blueviolet&style=flat-square)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Explorer;DevOps+Engineer;Cloud+Architect;Lifelong+Learner)](https://git.io/typing-svg)
-
+  <img src="https://komarev.com/ghpvc/?username=ganuka&label=Profile%20Views&color=7B68EE&style=for-the-badge" alt="Profile Views"/>
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Explorer;DevOps+Engineer;Cloud+Architect;Always+Learning+New+Things" alt="Typing SVG" />
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧊 About Me
 
-<img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.08); border-radius: 15px; padding: 15px;">
+<img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
 
-- 🔭 Currently working on **Full-Stack Applications**
-- 🌱 Learning **Cloud Architecture & DevOps**
-- 🤖 Exploring **Machine Learning & AI Systems**
-- 💡 Passionate about **scalable & intelligent apps**
+- 🔭 Building **modern full-stack systems**
+- 🌱 Learning **Cloud + AI + DevOps automation**
+- ⚙️ Enjoy architecting **clean & scalable apps**
+- 🤖 Passionate about **intelligent systems**
 - 📫 Reach me: **ganuka313@gmail.com**
-- ⚡ Fun fact: *I debug faster after my third cup of coffee ☕*
+- ⚡ Fun Fact: *Coffee is my debugger ☕*
 
 <br clear="right"/>
+</div>
 
 ---
 
-## 🧠 Tech Arsenal
+## 🪄 Tech Stack
+
+<div align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 15px;">
 
 ### 💻 Languages  
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp,php)
@@ -39,7 +43,7 @@
 ### ⚙️ Backend  
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,laravel,django,flask,spring)
 
-### ☁️ Databases & Cloud  
+### ☁️ Cloud & Databases  
 ![Cloud](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,docker)
 
 ### 🤖 Machine Learning  
@@ -47,40 +51,42 @@
 
 ### 🧩 Tools & Others  
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,arduino)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌌 GitHub Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ganuka&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=ganuka&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ganuka&theme=react&show_icons=true&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00FFFF&icon_color=00FFFF" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=ganuka&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganuka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganuka&layout=compact&theme=react&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00FFFF" width="60%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganuka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ganuka&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🧬 Tech Profile Snapshot
+## ⚙️ My Code in a Nutshell
 
 ```typescript
 const ganuka = {
   languages: ["JavaScript", "TypeScript", "Python", "Java", "PHP", "C++"],
-  frontend: ["React", "Angular", "Tailwind CSS", "Figma"],
+  frontend: ["React", "Angular", "Tailwind", "Figma"],
   backend: ["Node.js", "Django", "Spring Boot", "Laravel"],
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  devops: ["Docker", "CI/CD", "AWS"],
-  machineLearning: ["TensorFlow", "Scikit-learn", "OpenCV"],
-  currentFocus: "Building intelligent cloud-integrated full-stack apps",
-  motto: "Code. Learn. Evolve. ☕"
+  cloud: ["AWS", "Firebase", "Docker"],
+  ml: ["TensorFlow", "OpenCV", "Scikit-learn"],
+  currentFocus: "Building AI-powered, cloud-integrated full-stack apps",
+  motto: "Dream • Code • Create ☕"
 };
+
